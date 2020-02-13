@@ -4,6 +4,7 @@ additional edits, today is a muggy day...
 Others also fix the issue here and made some edits.
 
 git is over-complicated.
+too many options can be combine?
 
 Yeah, not yet.
 
