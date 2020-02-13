@@ -1,5 +1,7 @@
 Fix issue #1
 
+git is over-complicated.
+
 Yeah, not yet.
 
 Some addition patches.
