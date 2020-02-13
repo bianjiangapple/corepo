@@ -2,4 +2,5 @@ This is the fixes for issue 2.
 
 Changes are welcome!
 
+Fixing issue 2 attemp #2
 Fixing issue 2 attemp #1
