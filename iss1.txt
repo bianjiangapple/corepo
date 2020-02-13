@@ -1,1 +1,4 @@
 Fix issue #1
+
+
+Others also fix the issue here and made some edits.
