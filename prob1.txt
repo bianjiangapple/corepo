@@ -4,6 +4,10 @@ assuming now there are 2 contributors to bianjiangapple/corepo (1 is from webui,
 
 let's see what the collaboration look like :)
 
+Solution 1:
+I think it's an arithmetic progression staring with 2 and at step 2: 2, 4, 6, 8, 10!
+
+Solution 2:
 Remote contributor tries to solve the problem:
 it's 1, 2, 3, 5, 8, 13, 21, yeah, fibonacci number!
 maybe it's 4, 5, 9, 14, 23? also a fibonacci number!
