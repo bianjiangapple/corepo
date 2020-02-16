@@ -4,5 +4,8 @@ assuming now there are 2 contributors to bianjiangapple/corepo (1 is from webui,
 
 let's see what the collaboration look like :)
 
+Remote contributor tries to solve the problem:
+it's 1, 2, 3, 5, 8, 13, 21, yeah, fibonacci number!
+
 
 End of the demo.
