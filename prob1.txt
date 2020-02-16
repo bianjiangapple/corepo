@@ -4,5 +4,7 @@ assuming now there are 2 contributors to bianjiangapple/corepo (1 is from webui,
 
 let's see what the collaboration look like :)
 
+I think it's an arithmetic progression staring with 2 and at step 2: 2, 4, 6, 8, 10!
+
 
 End of the demo.
