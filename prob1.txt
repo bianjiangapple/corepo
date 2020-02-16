@@ -6,6 +6,7 @@ let's see what the collaboration look like :)
 
 Remote contributor tries to solve the problem:
 it's 1, 2, 3, 5, 8, 13, 21, yeah, fibonacci number!
+maybe it's 4, 5, 9, 14, 23? also a fibonacci number!
 
 
 End of the demo.
