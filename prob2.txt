@@ -1,4 +1,7 @@
 This is the 2nd problem discovered by local team.
 
-The possible official solution:
-Sun. Mon. Tue. Wed. Thu. Fri. Sat.
+a solution:
+1 3 5 7 8 10 12
+4 6 9 11
+2
+
