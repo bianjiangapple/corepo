@@ -1,1 +1,4 @@
 This is the 2nd problem discovered by local team.
+
+The possible official solution:
+Sun. Mon. Tue. Wed. Thu. Fri. Sat.
