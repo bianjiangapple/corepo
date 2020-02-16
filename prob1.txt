@@ -1,0 +1,8 @@
+this is a local problem, found by bianjiangapple.
+
+assuming now there are 2 contributors to bianjiangapple/corepo (1 is from webui, another is a remote contributor with git commandline capability)
+
+let's see what the collaboration look like :)
+
+
+End of the demo.
