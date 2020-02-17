@@ -1,0 +1,6 @@
+test data for solving prob1.txt
+1
+3
+5
+7
+9
